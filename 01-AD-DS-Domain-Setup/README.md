@@ -63,7 +63,27 @@ net share
 
 ## Evidence
 
-Screenshots documenting the configuration and verification steps are stored in the `screenshots` directory.
+### Lab Screenshots
+
+![Domain Controller Verification](screenshots/01-domain-controller-verification.png)
+
+![Domain Configuration](screenshots/02-domain-configuration.png)
+
+![DNS Zone Verification](screenshots/03-dns-zone-verification.png)
+
+![Client DNS Resolution](screenshots/04-client-dns-resolution.png)
+
+![Domain Controller Discovery](screenshots/05-domain-controller-discovery.png)
+
+![LDAP SRV Record Verification](screenshots/06-ldap-srv-record-verification.png)
+
+![Active Directory DNS Health](screenshots/07-active-directory-dns-health.png)
+
+![AD Essential Services](screenshots/08-ad-essential-services.png)
+
+![FSMO Roles Verification](screenshots/09-fsmo-roles-verification.png)
+
+![SYSVOL and NETLOGON Verification](screenshots/10-sysvol-netlogon-verification.png)
 
 ## Conclusion
 
