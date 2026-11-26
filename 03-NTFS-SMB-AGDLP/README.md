@@ -54,7 +54,7 @@ Created dedicated Domain Local security groups to manage resource permissions.
 | Customer Service | DL_CustomerService_Modify |
 | IT Support | DL_ITSupport_Modify |
 
-![Domain Local Security Groups](screenshots/02-domain-local-security-groups.png)
+![Domain Local Security Groups](screenshots/02-domain-local-security-group.png)
 
 ## 3. AGDLP Implementation
 
@@ -188,7 +188,7 @@ The employee successfully accessed the Marketing share and created a test docume
 
 Access to the previous Finance department was denied.
 
-![Employee Transfer Revoked Access](screenshots/11-employee-transfer-revoked-access.png)
+![Employee Transfer Revoked Access](screenshots/11-employee-transfer-revoked-access.png.png)
 
 This scenario demonstrates the Mover stage of the Joiner-Mover-Leaver (JML) identity lifecycle.
 
